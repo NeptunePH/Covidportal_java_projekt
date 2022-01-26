@@ -1,0 +1,12 @@
+1
+Grad Zagreb
+1000000
+20000
+2
+Međimurska
+100000
+500
+3
+Varaždinska
+200000
+10000

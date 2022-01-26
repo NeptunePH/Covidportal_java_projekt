@@ -1,0 +1,9 @@
+1
+Prehlada
+1
+2
+Tetanus
+3
+3
+Salmonela
+2,3

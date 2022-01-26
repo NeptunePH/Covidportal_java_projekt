@@ -1,0 +1,9 @@
+1
+Glavobolja
+RIJETKO
+2
+Grlobolja
+CESTO
+3
+Visoka Temperatura
+SREDNJE

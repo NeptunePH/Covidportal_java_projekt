@@ -1,2 +1,2 @@
 # Covidportal_java_projekt
-Zavrsni projekt u kolegiju Programiranje u jeziku java
+Zavrsna laboratorijska vjezba u kolegiju Programiranje u jeziku java

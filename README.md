@@ -1,3 +1,3 @@
 # Covidportal_java_projekt
-Zavrsna laboratorijska vjezba u kolegiju Programiranje u Jeziku Java.
-Vjezba je svaki tjedan nadogradjena novim funkcijama ovisno o obradjenom gradivu na kolegiju.
+Final exercise for a java programming course.
+The program is made with JavaFX, and it has its own H2 Database. The program shows a list of different symptoms, diseases, people and their contacts.
